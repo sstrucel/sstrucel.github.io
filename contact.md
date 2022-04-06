@@ -1,7 +1,8 @@
 ---
+layout: page
 title: Contact me
 subtitle: Here you'll find all the ways to get in touch with me
-tags:[personal, contact, linkedin, github, email]
+tags: [personal, contact, linkedin, github, email]
 ---
 
 **LinkedIn** www.linkedin.com/in/shawnstrucel
