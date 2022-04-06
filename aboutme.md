@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Find out some of the things that don't fit on a resume
 ---
 
 My name is Shawn Strucel. I am a driven Web Developer looking for new challenges 
