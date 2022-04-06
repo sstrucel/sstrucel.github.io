@@ -1,6 +1,6 @@
 ---
 title: Resume
-subtitle: Here you'll find my resume showcasing my past experience
+subtitle: Explore my professional experience
 ---
 
-Test for resume page
+![resume]("https://sstrucel.github.io/assets/img/resume.png")
