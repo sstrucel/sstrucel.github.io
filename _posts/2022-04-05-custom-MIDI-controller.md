@@ -2,8 +2,8 @@
 layout: post
 title: "Project Highlight: Custom MIDI Controller"
 subtitle: Development of a custom Arduino Due based MIDI controller
-cover-img: /assets/img/midi-controller.jpg
-thumbnail-img: /assets/img/midi-controller.jpg
+cover-img: /assets/img/midi-controller.png
+thumbnail-img: /assets/img/midi-controller.png
 tags: [project, music, MIDI, C++]
 ---
 
