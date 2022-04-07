@@ -3,7 +3,7 @@ layout: post
 title: "Project Highlight: Site Change Tracker"
 subtitle: Development of a website change tracker
 thumbnail-img: /assets/img/computer.png
-tags: [project, music, Javascript, NodeJS, ReactJS, MongoDB ]
+tags: [project, Javascript, NodeJS, ReactJS, MongoDB ]
 ---
 
 **What:** This project is a website change tracker that consumes RSS feed and tracks webpages to notify the user when a change occurs
