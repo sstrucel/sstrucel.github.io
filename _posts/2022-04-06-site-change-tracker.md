@@ -2,7 +2,7 @@
 layout: post
 title: "Project Highlight: Site Change Tracker"
 subtitle: Development of a website change tracker
-thumbnail-img: /assets/img/compass.png
+thumbnail-img: /assets/img/computer.png
 tags: [project, music, Javascript, NodeJS, ReactJS, MongoDB ]
 ---
 
