@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/drum.png
 tags: [project, music, MIDI, C++]
 ---
 
-**What:** This project is a custom MIDI/Keyboard controller that seamlessly lets the user use shortcut keys as well as MIDI messages to control the DAW of their choosing
+This project is a custom MIDI/Keyboard controller that seamlessly lets the user use shortcut keys as well as MIDI messages to control the DAW of their choosing
 
 **When:** Summer 2021
 

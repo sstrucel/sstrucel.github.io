@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/synthesizer.png
 tags: [project, music, C#, C++]
 ---
 
-**What:** This project is a wavetable synthesizer I built as part of my master of engineeering degree
+This project is a wavetable synthesizer I built as part of my master of engineeering degree at McMaster University
 
 **When:** 2014
 
