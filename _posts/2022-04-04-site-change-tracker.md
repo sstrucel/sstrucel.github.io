@@ -6,9 +6,9 @@ thumbnail-img: /assets/img/computer.png
 tags: [project, Javascript, NodeJS, ReactJS, MongoDB ]
 ---
 
-This project is a website change tracker that consumes RSS feed and tracks webpages to notify the user when a change occurs
+This project is a website change tracker that consumes RSS feeds and tracks webpages to notify the user when a change occurs
 
-**When:** Winter 2018
+**When:** Winter 2019
 
 **Why:** When browsing around the internet there were many instance where it would be important to check in on a site regularly to see if they had something new or if there was a sale or some other timed event. 
 
